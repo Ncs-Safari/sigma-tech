@@ -1,0 +1,2 @@
+D:\Document\Application\SIGMA.Tech\Alogitma\bin\Debug\net8.0\Alogitma.exe
+D:\Document\Application\SIGMA.Tech\Alogitma\bin\Debug\net8.0\Alogitma.dll
